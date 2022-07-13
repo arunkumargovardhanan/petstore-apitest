@@ -1,0 +1,22 @@
+{
+    "name": "petstore-apitest",
+    "version": "1.0.0",
+    "description": "Perform CURD validation on petstore api",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "super",
+        "agent",
+        "api",
+        "test"
+    ],
+    "author": "Arunkumar Govardhanan",
+    "license": "ISC",
+    "devDependencies": {
+        "chai": "^4.3.6",
+        "mocha": "^10.0.0",
+        "supertest": "^6.2.4"
+    }
+}
